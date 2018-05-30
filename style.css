@@ -1,14 +1,14 @@
 #about_blue {
   border-style: solid;
-  background-color: #6495ED;
-  border-color: #000000;
+  background-color: green;
+  border-color: pink;
   margin: 10px;
   color: #3366FF;
 }
 
 #about_yellow {
   border-style: solid;
-  background-color: #FFEBCD;
+  background-color: #orange;
   border-color: #000000;
   margin: 10px;
   color: #FF9933;
