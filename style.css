@@ -1,0 +1,37 @@
+#about_blue {
+  border-style: solid;
+  background-color: #6495ED;
+  border-color: #000000;
+  margin: 10px;
+  color: #3366FF;
+}
+
+#about_yellow {
+  border-style: solid;
+  background-color: #FFEBCD;
+  border-color: #000000;
+  margin: 10px;
+  color: #FF9933;
+}
+
+.nav li a {
+  border-style: solid;
+  background-color: #FF0000;
+  color: #FFFFFF;
+
+
+}
+
+.color-info
+
+.important  {
+  font-weight: bold;
+}
+
+h2 {
+  color: #000000;
+}
+
+p {
+  color: #000000;
+}
